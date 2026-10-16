@@ -16,9 +16,11 @@
 - [📊 Résultats](#-résultats)
 - [🏗️ Architecture](#️-architecture)
 - [🛠️ Stack technique](#️-stack-technique)
+- [📸 Aperçu de l'interface](#-aperçu-de-linterface)
 - [🚀 Installation](#-installation)
 - [🎬 Utilisation](#-utilisation)
 - [📁 Structure du projet](#-structure-du-projet)
+- [🎓 Compétences mobilisées](#-compétences-mobilisées)
 - [👤 Auteur](#-auteur)
 
 ---
@@ -91,6 +93,52 @@ Automatiser la **création d'emails marketing personnalisés** pour l'équipe ma
 | **Interface** | Streamlit |
 | **Data** | pandas |
 | **Sérialisation** | CSV, joblib |
+
+---
+
+## 📸 Aperçu de l'interface
+
+### 🖥️ Interface Streamlit
+
+![Interface principale](assets/images/13_interface.png)
+
+| Thème 1 | Thème 2 |
+|---|---|
+| ![Interface 1](assets/images/14_interface1.png) | ![Interface 2](assets/images/15_interface2.png) |
+
+### 📧 Exemples d'emails générés
+
+| Email 1 | Email 2 |
+|---|---|
+| ![Email 1](assets/images/07_email1.png) | ![Email 2](assets/images/08_email2.png) |
+
+| Email 3 | Email 4 |
+|---|---|
+| ![Email 3](assets/images/09_email3.png) | ![Email 4](assets/images/10_email4.png) |
+
+### 🛍️ Produits avec images
+
+| Café | Chocolat |
+|---|---|
+| ![Café](assets/images/02_produit_cafe.png) | ![Chocolat](assets/images/03_produit_chocolat.png) |
+
+| Fromage | Huile |
+|---|---|
+| ![Fromage](assets/images/11_produit_fromage.png) | ![Huile](assets/images/12_produit_huile.png) |
+
+### 📊 Dataset
+
+| Clients (500) | Campagnes (50) |
+|---|---|
+| ![Clients](assets/images/04_clients_csv.png) | ![Campagnes](assets/images/05_campagnes_csv.png) |
+
+### 💻 Code source
+
+![Code app.py](assets/images/01_app_code.png)
+
+### 🧪 Test de génération
+
+![Test](assets/images/17_test.png)
 
 ---
 
@@ -185,7 +233,9 @@ publicis-emailgen/
 │   ├── generate_dataset.py          # Création du dataset
 │   ├── prompts.py                   # Prompts et fonctions
 │   ├── email_generator.py           # Générateur d'emails
-│   └── image_generator.py           # Générateur d'images
+│   ├── image_generator.py           # Générateur d'images
+│   ├── batch_generator.py           # Génération par lot
+│   └── explore.py                   # Exploration du dataset
 │
 ├── 📁 data/                         # Données
 │   ├── clients.csv                  # 500 clients
@@ -196,7 +246,7 @@ publicis-emailgen/
 │   └── images/                      # Images produits
 │
 ├── 📁 assets/                       # Ressources
-│   └── images/                      # Captures README
+│   └── images/                      # 17 captures d'écran
 │
 ├── 📄 app.py                        # Interface Streamlit
 ├── 📄 requirements.txt              # Dépendances
@@ -226,7 +276,7 @@ MIT License.
 
 ## 👤 Auteur
 
-**Sylvain Kabange**
+**KABANE MBUYA SYLVAIN**
 
 🎓 M2 Data Science — Horizon University  
 📧 kabange.sylvain@horizon-university.tn  
@@ -234,4 +284,4 @@ MIT License.
 
 ---
 
-⭐ **Si ce projet vous a plu, n'hésitez pas à lui donner une étoile !**
+⭐ **Si ce projet vous a plu, n'hésitez pas à lui donner une étoile !**s

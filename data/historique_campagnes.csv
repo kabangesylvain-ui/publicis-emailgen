@@ -1,0 +1,51 @@
+campagne_id,produit,theme,sujet_email,taux_ouverture,taux_clic,nb_envois,date
+CAMP001,Biscuits artisanaux,Fidélité,🍫 Biscuits artisanaux à prix réduit,0.23,0.05,24056,2025-01-01
+CAMP002,Riz basmati,Nouveauté,🎁 -20% sur Riz basmati,0.206,0.056,42190,2025-01-08
+CAMP003,Café premium,VIP,🍫 Café premium à prix réduit,0.27,0.068,47192,2025-01-15
+CAMP004,Vin rouge AOC,Saison,🎁 -20% sur Vin rouge AOC,0.359,0.12,7395,2025-01-22
+CAMP005,Café premium,Saison,🎁 -20% sur Café premium,0.177,0.027,14984,2025-01-29
+CAMP006,Chocolat noir bio,Promotion,🎁 -20% sur Chocolat noir bio,0.379,0.093,12711,2025-02-05
+CAMP007,Thé vert bio,VIP,🍫 Thé vert bio à prix réduit,0.322,0.107,29312,2025-02-12
+CAMP008,Vin rouge AOC,Fête,🍫 Vin rouge AOC à prix réduit,0.221,0.065,17439,2025-02-19
+CAMP009,Fromage affiné,Nouveauté,"💝 Pour vous, Fromage affiné en exclusivité",0.242,0.05,20330,2025-02-26
+CAMP010,Confiture maison,Nouveauté,⚡ Ne manquez pas Confiture maison,0.446,0.104,37675,2025-03-05
+CAMP011,Miel de lavande,VIP,✨ Découvrez notre nouveau Miel de lavande,0.226,0.066,17502,2025-03-12
+CAMP012,Confiture maison,Saison,🎁 -20% sur Confiture maison,0.288,0.055,39019,2025-03-19
+CAMP013,Pâtes italiennes,Fidélité,"💝 Pour vous, Pâtes italiennes en exclusivité",0.293,0.102,29220,2025-03-26
+CAMP014,Fromage affiné,Fête,✨ Découvrez notre nouveau Fromage affiné,0.322,0.064,32584,2025-04-02
+CAMP015,Café premium,Saison,🎁 -20% sur Café premium,0.331,0.109,21995,2025-04-09
+CAMP016,Chocolat noir bio,Promotion,"💝 Pour vous, Chocolat noir bio en exclusivité",0.186,0.065,20438,2025-04-16
+CAMP017,Pâtes italiennes,VIP,🍫 Pâtes italiennes à prix réduit,0.397,0.107,47816,2025-04-23
+CAMP018,Vin rouge AOC,Promotion,🎁 -20% sur Vin rouge AOC,0.26,0.064,24441,2025-04-30
+CAMP019,Sauce tomate bio,Promotion,"💝 Pour vous, Sauce tomate bio en exclusivité",0.308,0.088,5045,2025-05-07
+CAMP020,Biscuits artisanaux,Fidélité,"💝 Pour vous, Biscuits artisanaux en exclusivité",0.295,0.054,22349,2025-05-14
+CAMP021,Vin rouge AOC,Fidélité,🎁 -20% sur Vin rouge AOC,0.306,0.102,11387,2025-05-21
+CAMP022,Pâtes italiennes,VIP,🎁 -20% sur Pâtes italiennes,0.343,0.063,21102,2025-05-28
+CAMP023,Miel de lavande,Fête,🍫 Miel de lavande à prix réduit,0.212,0.059,34605,2025-06-04
+CAMP024,Biscuits artisanaux,Nouveauté,🍫 Biscuits artisanaux à prix réduit,0.177,0.02,35649,2025-06-11
+CAMP025,Riz basmati,Promotion,✨ Découvrez notre nouveau Riz basmati,0.322,0.099,12269,2025-06-18
+CAMP026,Biscuits artisanaux,Fidélité,🎉 Offre spéciale Fidélité,0.352,0.114,30459,2025-06-25
+CAMP027,Confiture maison,Fidélité,🍫 Confiture maison à prix réduit,0.175,0.053,23715,2025-07-02
+CAMP028,Café premium,Saison,⚡ Ne manquez pas Café premium,0.365,0.099,27043,2025-07-09
+CAMP029,Thé vert bio,Fidélité,⚡ Ne manquez pas Thé vert bio,0.157,0.03,23676,2025-07-16
+CAMP030,Pâtes italiennes,Promotion,"💝 Pour vous, Pâtes italiennes en exclusivité",0.439,0.144,18117,2025-07-23
+CAMP031,Fromage affiné,Promotion,"💝 Pour vous, Fromage affiné en exclusivité",0.376,0.082,34665,2025-07-30
+CAMP032,Biscuits artisanaux,Saison,🎁 -20% sur Biscuits artisanaux,0.26,0.085,45239,2025-08-06
+CAMP033,Vin rouge AOC,Promotion,🎁 -20% sur Vin rouge AOC,0.334,0.078,37994,2025-08-13
+CAMP034,Sauce tomate bio,Nouveauté,🎁 -20% sur Sauce tomate bio,0.401,0.13,8199,2025-08-20
+CAMP035,Café premium,Saison,✨ Découvrez notre nouveau Café premium,0.292,0.079,42926,2025-08-27
+CAMP036,Chocolat noir bio,Saison,⚡ Ne manquez pas Chocolat noir bio,0.174,0.054,34006,2025-09-03
+CAMP037,Miel de lavande,Fidélité,🍫 Miel de lavande à prix réduit,0.231,0.053,42249,2025-09-10
+CAMP038,Thé vert bio,VIP,✨ Découvrez notre nouveau Thé vert bio,0.309,0.058,28401,2025-09-17
+CAMP039,Sauce tomate bio,Saison,🎉 Offre spéciale Saison,0.373,0.108,25388,2025-09-24
+CAMP040,Thé vert bio,Saison,🎉 Offre spéciale Saison,0.326,0.079,15057,2025-10-01
+CAMP041,Café premium,VIP,🍫 Café premium à prix réduit,0.32,0.089,43886,2025-10-08
+CAMP042,Café premium,Fidélité,"💝 Pour vous, Café premium en exclusivité",0.191,0.022,28466,2025-10-15
+CAMP043,Riz basmati,Nouveauté,🎁 -20% sur Riz basmati,0.283,0.041,41898,2025-10-22
+CAMP044,Café premium,Fidélité,"💝 Pour vous, Café premium en exclusivité",0.435,0.113,41803,2025-10-29
+CAMP045,Miel de lavande,Saison,🍫 Miel de lavande à prix réduit,0.282,0.095,23095,2025-11-05
+CAMP046,Huile d'olive extra,VIP,"💝 Pour vous, Huile d'olive extra en exclusivité",0.174,0.043,45592,2025-11-12
+CAMP047,Pâtes italiennes,Fidélité,"💝 Pour vous, Pâtes italiennes en exclusivité",0.187,0.059,14111,2025-11-19
+CAMP048,Thé vert bio,Nouveauté,🎁 -20% sur Thé vert bio,0.269,0.042,5863,2025-11-26
+CAMP049,Fromage affiné,Nouveauté,⚡ Ne manquez pas Fromage affiné,0.424,0.122,43046,2025-12-03
+CAMP050,Thé vert bio,VIP,🎁 -20% sur Thé vert bio,0.261,0.03,12189,2025-12-10

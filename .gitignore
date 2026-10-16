@@ -1,0 +1,34 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output (regénérable)
+output/*.csv
+output/images/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Images README
+# (garder assets/images/ versionné)
+.env
+
+.ipynb_checkpoints/
